@@ -4,17 +4,19 @@
 
 Linux: `ls`  <br>
 
-`ls -al` shows all files in a directory with full details.
+- `ls -al` shows all files in a directory with full details.
 
-Use cases:
-
-See hidden files (those starting with .)
-
-Check permissions, owners, sizes, timestamps
-
-Inspect directories in depth for debugging, config, deployment
+      Use cases:
+      
+      See hidden files (those starting with .)
+      
+      Check permissions, owners, sizes, timestamps
+      
+      Inspect directories in depth for debugging, config, deployment
 
 CMD: `dir`  <br>
+- dir /a /s > sizes.txt    
+      This creates sizes.txt in the same folder with the full output (including hidden dirs).
 PowerShell: `ls` / `dir` / `gci`  <br>
 
 ## show file content
