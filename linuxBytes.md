@@ -3,6 +3,17 @@
 ## listing
 
 Linux: `ls`  <br>
+
+`ls -al` shows all files in a directory with full details.
+
+Use cases:
+
+See hidden files (those starting with .)
+
+Check permissions, owners, sizes, timestamps
+
+Inspect directories in depth for debugging, config, deployment
+
 CMD: `dir`  <br>
 PowerShell: `ls` / `dir` / `gci`  <br>
 
